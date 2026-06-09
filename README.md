@@ -10,7 +10,11 @@ This project is licensed under the MIT License.
 
 **Pinyin audio**
 
-Pinyin pronunciation audio files used in this app come from [Chinese-Pinyin-Audio](https://github.com/shikangkai/Chinese-Pinyin-Audio) by [shikangkai](https://github.com/shikangkai).
+Pinyin pronunciation audio files used in this app come from the following sources:
+
+- [Chinese-Pinyin-Audio](https://github.com/shikangkai/Chinese-Pinyin-Audio) by [shikangkai](https://github.com/shikangkai).
+- [mp3-chinese-pinyin-sound](https://github.com/davinfifield/mp3-chinese-pinyin-sound) by [davinfifield](https://github.com/davinfifield), released under the Unlicense.
+- [hanyu-pinyin-audio](https://github.com/zispace/hanyu-pinyin-audio/tree/data) by [zispace](https://github.com/zispace).
 
 **Stroke animation library**
 
