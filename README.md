@@ -8,6 +8,10 @@ This project is licensed under the MIT License.
 
 ### Third-Party Attributions
 
+**Pinyin audio**
+
+Pinyin pronunciation audio files used in this app come from [Chinese-Pinyin-Audio](https://github.com/shikangkai/Chinese-Pinyin-Audio) by [shikangkai](https://github.com/shikangkai).
+
 **Stroke animation library**
 
 Character stroke order animations are powered by [Hanzi Writer](https://github.com/chanind/hanzi-writer) by [chanind](https://github.com/chanind), released under the MIT License.
