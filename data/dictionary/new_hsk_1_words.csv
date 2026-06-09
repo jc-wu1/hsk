@@ -1,21 +1,21 @@
-entry_id,simplified,traditional,pinyin_numbered,pinyin_marked,pinyin_search,hsk_system,hsk_level,hsk_order,part_of_speech,definitions_id,measure_word,notes,example_simplified,example_pinyin,example_id,source,status
-new_hsk_2021_1_0001,我,我,wo3,wǒ,wo,new_hsk_2021,1,1,pronoun,saya; aku,,,我是学生。,wo3 shi4 xue2 sheng1,Saya adalah siswa.,manual,draft
-new_hsk_2021_1_0002,你,你,ni3,nǐ,ni,new_hsk_2021,1,2,pronoun,kamu; Anda,,,你好吗？,ni3 hao3 ma5,Apa kabar?,manual,draft
-new_hsk_2021_1_0003,他,他,ta1,tā,ta,new_hsk_2021,1,3,pronoun,dia laki-laki; ia,,,他是老师。,ta1 shi4 lao3 shi1,Dia adalah guru.,manual,draft
-new_hsk_2021_1_0004,她,她,ta1,tā,ta,new_hsk_2021,1,4,pronoun,dia perempuan; ia,,,她是医生。,ta1 shi4 yi1 sheng1,Dia adalah dokter.,manual,draft
-new_hsk_2021_1_0005,我们,我們,wo3 men5,wǒ men,wo men,new_hsk_2021,1,5,pronoun,kami; kita,,,我们学习汉语。,wo3 men5 xue2 xi2 han4 yu3,Kami belajar bahasa Mandarin.,manual,draft
-new_hsk_2021_1_0006,好,好,hao3,hǎo,hao,new_hsk_2021,1,6,adjective,baik; bagus; sehat,,,今天很好。,jin1 tian1 hen3 hao3,Hari ini sangat baik.,manual,draft
-new_hsk_2021_1_0007,是,是,shi4,shì,shi,new_hsk_2021,1,7,verb,adalah; merupakan,,,这是我的书。,zhe4 shi4 wo3 de5 shu1,Ini adalah buku saya.,manual,draft
-new_hsk_2021_1_0008,不,不,bu4,bù,bu,new_hsk_2021,1,8,adverb,tidak; bukan,,,我不是老师。,wo3 bu4 shi4 lao3 shi1,Saya bukan guru.,manual,draft
-new_hsk_2021_1_0009,在,在,zai4,zài,zai,new_hsk_2021,1,9,verb,berada di; ada di,,,我在学校。,wo3 zai4 xue2 xiao4,Saya berada di sekolah.,manual,draft
-new_hsk_2021_1_0010,有,有,you3,yǒu,you,new_hsk_2021,1,10,verb,punya; memiliki; ada,,,我有一本书。,wo3 you3 yi4 ben3 shu1,Saya punya sebuah buku.,manual,draft
-new_hsk_2021_1_0011,人,人,ren2,rén,ren,new_hsk_2021,1,11,noun,orang; manusia,,,这里有很多人。,zhe4 li3 you3 hen3 duo1 ren2,Di sini ada banyak orang.,manual,draft
-new_hsk_2021_1_0012,中国,中國,zhong1 guo2,zhōng guó,zhong guo,new_hsk_2021,1,12,noun,Tiongkok; China,,,他在中国学习。,ta1 zai4 zhong1 guo2 xue2 xi2,Dia belajar di Tiongkok.,manual,draft
-new_hsk_2021_1_0013,汉语,漢語,han4 yu3,hàn yǔ,han yu,new_hsk_2021,1,13,noun,bahasa Mandarin; bahasa Tionghoa,,,我学习汉语。,wo3 xue2 xi2 han4 yu3,Saya belajar bahasa Mandarin.,manual,draft
-new_hsk_2021_1_0014,学习,學習,xue2 xi2,xué xí,xue xi,new_hsk_2021,1,14,verb,belajar; mempelajari,,,她学习中文。,ta1 xue2 xi2 zhong1 wen2,Dia belajar bahasa Mandarin.,manual,draft
-new_hsk_2021_1_0015,学生,學生,xue2 sheng1,xué shēng,xue sheng,new_hsk_2021,1,15,noun,siswa; murid; pelajar,,,我是学生。,wo3 shi4 xue2 sheng1,Saya adalah siswa.,manual,draft
-new_hsk_2021_1_0016,老师,老師,lao3 shi1,lǎo shī,lao shi,new_hsk_2021,1,16,noun,guru,,,老师很好。,lao3 shi1 hen3 hao3,Gurunya sangat baik.,manual,draft
-new_hsk_2021_1_0017,学校,學校,xue2 xiao4,xué xiào,xue xiao,new_hsk_2021,1,17,noun,sekolah,,,学校很大。,xue2 xiao4 hen3 da4,Sekolahnya sangat besar.,manual,draft
-new_hsk_2021_1_0018,书,書,shu1,shū,shu,new_hsk_2021,1,18,noun,buku,本,,这是一本书。,zhe4 shi4 yi4 ben3 shu1,Ini sebuah buku.,manual,draft
-new_hsk_2021_1_0019,水,水,shui3,shuǐ,shui,new_hsk_2021,1,19,noun,air,杯,,我喝水。,wo3 he1 shui3,Saya minum air.,manual,draft
-new_hsk_2021_1_0020,吃,吃,chi1,chī,chi,new_hsk_2021,1,20,verb,makan,,,我吃米饭。,wo3 chi1 mi3 fan4,Saya makan nasi.,manual,draft
+entry_id,simplified,pinyin_numbered,pinyin_marked,pinyin_search,hsk_system,hsk_level,hsk_order,part_of_speech,definitions_id,measure_word,notes,source,status
+new_hsk_2021_1_0001,我,wo3,wǒ,wo,new_hsk_2021,1,1,pronoun,saya; aku,,,manual,draft
+new_hsk_2021_1_0002,你,ni3,nǐ,ni,new_hsk_2021,1,2,pronoun,kamu; Anda,,,manual,draft
+new_hsk_2021_1_0003,他,ta1,tā,ta,new_hsk_2021,1,3,pronoun,dia laki-laki; ia,,,manual,draft
+new_hsk_2021_1_0004,她,ta1,tā,ta,new_hsk_2021,1,4,pronoun,dia perempuan; ia,,,manual,draft
+new_hsk_2021_1_0005,我们,wo3 men5,wǒ men,wo men,new_hsk_2021,1,5,pronoun,kami; kita,,,manual,draft
+new_hsk_2021_1_0006,好,hao3,hǎo,hao,new_hsk_2021,1,6,adjective,baik; bagus; sehat,,,manual,draft
+new_hsk_2021_1_0007,是,shi4,shì,shi,new_hsk_2021,1,7,verb,adalah; merupakan,,,manual,draft
+new_hsk_2021_1_0008,不,bu4,bù,bu,new_hsk_2021,1,8,adverb,tidak; bukan,,,manual,draft
+new_hsk_2021_1_0009,在,zai4,zài,zai,new_hsk_2021,1,9,verb,berada di; ada di,,,manual,draft
+new_hsk_2021_1_0010,有,you3,yǒu,you,new_hsk_2021,1,10,verb,punya; memiliki; ada,,,manual,draft
+new_hsk_2021_1_0011,人,ren2,rén,ren,new_hsk_2021,1,11,noun,orang; manusia,,,manual,draft
+new_hsk_2021_1_0012,中国,zhong1 guo2,zhōng guó,zhong guo,new_hsk_2021,1,12,noun,Tiongkok; China,,,manual,draft
+new_hsk_2021_1_0013,汉语,han4 yu3,hàn yǔ,han yu,new_hsk_2021,1,13,noun,bahasa Mandarin; bahasa Tionghoa,,,manual,draft
+new_hsk_2021_1_0014,学习,xue2 xi2,xué xí,xue xi,new_hsk_2021,1,14,verb,belajar; mempelajari,,,manual,draft
+new_hsk_2021_1_0015,学生,xue2 sheng1,xué shēng,xue sheng,new_hsk_2021,1,15,noun,siswa; murid; pelajar,,,manual,draft
+new_hsk_2021_1_0016,老师,lao3 shi1,lǎo shī,lao shi,new_hsk_2021,1,16,noun,guru,,,manual,draft
+new_hsk_2021_1_0017,学校,xue2 xiao4,xué xiào,xue xiao,new_hsk_2021,1,17,noun,sekolah,,,manual,draft
+new_hsk_2021_1_0018,书,shu1,shū,shu,new_hsk_2021,1,18,noun,buku,本,,manual,draft
+new_hsk_2021_1_0019,水,shui3,shuǐ,shui,new_hsk_2021,1,19,noun,air,杯,,manual,draft
+new_hsk_2021_1_0020,吃,chi1,chī,chi,new_hsk_2021,1,20,verb,makan,,,manual,draft

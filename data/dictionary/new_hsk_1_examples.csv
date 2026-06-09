@@ -1,0 +1,61 @@
+entry_id,example_order,example_simplified,example_pinyin,example_id
+new_hsk_2021_1_0001,1,我很好。,wo3 hen3 hao3,Saya baik.
+new_hsk_2021_1_0001,2,我在学校学习。,wo3 zai4 xue2 xiao4 xue2 xi2,Saya belajar di sekolah.
+new_hsk_2021_1_0001,3,我不是老师，我是学生。,wo3 bu4 shi4 lao3 shi1 wo3 shi4 xue2 sheng1,Saya bukan guru saya adalah siswa.
+new_hsk_2021_1_0002,1,你好吗？,ni3 hao3 ma5,Apa kabar?
+new_hsk_2021_1_0002,2,你有书吗？,ni3 you3 shu1 ma5,Apakah kamu punya buku?
+new_hsk_2021_1_0002,3,你在中国学习汉语吗？,ni3 zai4 zhong1 guo2 xue2 xi2 han4 yu3 ma5,Apakah kamu belajar bahasa Mandarin di Tiongkok?
+new_hsk_2021_1_0003,1,他很好。,ta1 hen3 hao3,Dia baik.
+new_hsk_2021_1_0003,2,他在学校。,ta1 zai4 xue2 xiao4,Dia berada di sekolah.
+new_hsk_2021_1_0003,3,他不是学生，他是老师。,ta1 bu4 shi4 xue2 sheng1 ta1 shi4 lao3 shi1,Dia bukan siswa dia adalah guru.
+new_hsk_2021_1_0004,1,她很好。,ta1 hen3 hao3,Dia baik.
+new_hsk_2021_1_0004,2,她学习汉语。,ta1 xue2 xi2 han4 yu3,Dia belajar bahasa Mandarin.
+new_hsk_2021_1_0004,3,她在中国的学校学习。,ta1 zai4 zhong1 guo2 de5 xue2 xiao4 xue2 xi2,Dia belajar di sekolah di Tiongkok.
+new_hsk_2021_1_0005,1,我们很好。,wo3 men5 hen3 hao3,Kami baik.
+new_hsk_2021_1_0005,2,我们在学校学习。,wo3 men5 zai4 xue2 xiao4 xue2 xi2,Kami belajar di sekolah.
+new_hsk_2021_1_0005,3,我们有老师，也有学生。,wo3 men5 you3 lao3 shi1 ye3 you3 xue2 sheng1,Kami punya guru dan juga siswa.
+new_hsk_2021_1_0006,1,好。,hao3,Baik.
+new_hsk_2021_1_0006,2,这个学校很好。,zhe4 ge5 xue2 xiao4 hen3 hao3,Sekolah ini sangat baik.
+new_hsk_2021_1_0006,3,老师说，学习汉语很好。,lao3 shi1 shuo1 xue2 xi2 han4 yu3 hen3 hao3,Guru berkata belajar Mandarin itu baik.
+new_hsk_2021_1_0007,1,我是学生。,wo3 shi4 xue2 sheng1,Saya adalah siswa.
+new_hsk_2021_1_0007,2,他是老师。,ta1 shi4 lao3 shi1,Dia adalah guru.
+new_hsk_2021_1_0007,3,这里是学校，不是家。,zhe4 li3 shi4 xue2 xiao4 bu4 shi4 jia1,Di sini adalah sekolah bukan rumah.
+new_hsk_2021_1_0008,1,不。,bu4,Tidak.
+new_hsk_2021_1_0008,2,我不吃。,wo3 bu4 chi1,Saya tidak makan.
+new_hsk_2021_1_0008,3,他不在学校，他在中国。,ta1 bu4 zai4 xue2 xiao4 ta1 zai4 zhong1 guo2,Dia tidak di sekolah dia di Tiongkok.
+new_hsk_2021_1_0009,1,我在。,wo3 zai4,Saya ada.
+new_hsk_2021_1_0009,2,我在学校。,wo3 zai4 xue2 xiao4,Saya berada di sekolah.
+new_hsk_2021_1_0009,3,老师在学校教学生。,lao3 shi1 zai4 xue2 xiao4 jiao1 xue2 sheng1,Guru mengajar siswa di sekolah.
+new_hsk_2021_1_0010,1,我有书。,wo3 you3 shu1,Saya punya buku.
+new_hsk_2021_1_0010,2,学校有老师。,xue2 xiao4 you3 lao3 shi1,Sekolah punya guru.
+new_hsk_2021_1_0010,3,中国有很多学习汉语的学生。,zhong1 guo2 you3 hen3 duo1 xue2 xi2 han4 yu3 de5 xue2 sheng1,Tiongkok punya banyak siswa yang belajar Mandarin.
+new_hsk_2021_1_0011,1,人很好。,ren2 hen3 hao3,Orang itu baik.
+new_hsk_2021_1_0011,2,中国有很多人。,zhong1 guo2 you3 hen3 duo1 ren2,Tiongkok punya banyak orang.
+new_hsk_2021_1_0011,3,很多人在学校学习汉语。,hen3 duo1 ren2 zai4 xue2 xiao4 xue2 xi2 han4 yu3,Banyak orang belajar Mandarin di sekolah.
+new_hsk_2021_1_0012,1,中国很好。,zhong1 guo2 hen3 hao3,Tiongkok sangat baik.
+new_hsk_2021_1_0012,2,我在中国。,wo3 zai4 zhong1 guo2,Saya berada di Tiongkok.
+new_hsk_2021_1_0012,3,他在中国学习汉语。,ta1 zai4 zhong1 guo2 xue2 xi2 han4 yu3,Dia belajar Mandarin di Tiongkok.
+new_hsk_2021_1_0013,1,汉语很好。,han4 yu3 hen3 hao3,Bahasa Mandarin sangat baik.
+new_hsk_2021_1_0013,2,我学习汉语。,wo3 xue2 xi2 han4 yu3,Saya belajar bahasa Mandarin.
+new_hsk_2021_1_0013,3,我们在中国学习汉语。,wo3 men5 zai4 zhong1 guo2 xue2 xi2 han4 yu3,Kami belajar bahasa Mandarin di Tiongkok.
+new_hsk_2021_1_0014,1,我学习。,wo3 xue2 xi2,Saya belajar.
+new_hsk_2021_1_0014,2,学生学习汉语。,xue2 sheng1 xue2 xi2 han4 yu3,Siswa belajar bahasa Mandarin.
+new_hsk_2021_1_0014,3,我们在学校和老师学习汉语。,wo3 men5 zai4 xue2 xiao4 he2 lao3 shi1 xue2 xi2 han4 yu3,Kami belajar Mandarin dengan guru di sekolah.
+new_hsk_2021_1_0015,1,我是学生。,wo3 shi4 xue2 sheng1,Saya adalah siswa.
+new_hsk_2021_1_0015,2,学生在学校。,xue2 sheng1 zai4 xue2 xiao4,Siswa berada di sekolah.
+new_hsk_2021_1_0015,3,中国学生和老师一起学习汉语。,zhong1 guo2 xue2 sheng1 he2 lao3 shi1 yi4 qi3 xue2 xi2 han4 yu3,Siswa Tiongkok dan guru belajar Mandarin bersama.
+new_hsk_2021_1_0016,1,老师好。,lao3 shi1 hao3,Halo guru.
+new_hsk_2021_1_0016,2,她是老师。,ta1 shi4 lao3 shi1,Dia adalah guru.
+new_hsk_2021_1_0016,3,老师在学校教学生学习汉语。,lao3 shi1 zai4 xue2 xiao4 jiao1 xue2 sheng1 xue2 xi2 han4 yu3,Guru mengajar siswa belajar Mandarin di sekolah.
+new_hsk_2021_1_0017,1,学校很好。,xue2 xiao4 hen3 hao3,Sekolah sangat baik.
+new_hsk_2021_1_0017,2,我在学校。,wo3 zai4 xue2 xiao4,Saya berada di sekolah.
+new_hsk_2021_1_0017,3,我们学校有老师和学生。,wo3 men5 xue2 xiao4 you3 lao3 shi1 he2 xue2 sheng1,Sekolah kami punya guru dan siswa.
+new_hsk_2021_1_0018,1,这是书。,zhe4 shi4 shu1,Ini buku.
+new_hsk_2021_1_0018,2,我有一本书。,wo3 you3 yi4 ben3 shu1,Saya punya sebuah buku.
+new_hsk_2021_1_0018,3,老师给学生一本汉语书。,lao3 shi1 gei3 xue2 sheng1 yi4 ben3 han4 yu3 shu1,Guru memberi siswa sebuah buku Mandarin.
+new_hsk_2021_1_0019,1,我喝水。,wo3 he1 shui3,Saya minum air.
+new_hsk_2021_1_0019,2,这里有水。,zhe4 li3 you3 shui3,Di sini ada air.
+new_hsk_2021_1_0019,3,学生在学校喝水，不喝茶。,xue2 sheng1 zai4 xue2 xiao4 he1 shui3 bu4 he1 cha2,Siswa minum air di sekolah bukan minum teh.
+new_hsk_2021_1_0020,1,我吃。,wo3 chi1,Saya makan.
+new_hsk_2021_1_0020,2,我吃米饭。,wo3 chi1 mi3 fan4,Saya makan nasi.
+new_hsk_2021_1_0020,3,学生在学校吃饭，也喝水。,xue2 sheng1 zai4 xue2 xiao4 chi1 fan4 ye3 he1 shui3,Siswa makan di sekolah dan juga minum air.
